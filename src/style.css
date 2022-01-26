@@ -4,11 +4,25 @@ h2 {
 }
 
 p {
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 
 .pastry-image {
   display: block;
   max-width: 250px;
+}
+
+.intext-navi-links a {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  transition: 200ms ease-in-out;
+  color: cadetblue;
+}
+
+.intext-navi-links:hover {
+  text-decoration: underline;
+  color: blue;
 }
