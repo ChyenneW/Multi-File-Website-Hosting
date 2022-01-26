@@ -1,0 +1,14 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+.pastry-image {
+  display: block;
+  max-width: 250px;
+}
