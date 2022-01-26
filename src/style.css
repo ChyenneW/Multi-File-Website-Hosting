@@ -1,3 +1,8 @@
+body {
+  background-color: rgb(248, 202, 233);
+  color: cadetblue;
+}
+
 h1,
 h2 {
   text-align: center;
@@ -10,6 +15,7 @@ p {
 .croissants-home-image {
   display: block;
   margin: 0 auto;
+  max-width: 750px;
 }
 
 .pastry-image {
